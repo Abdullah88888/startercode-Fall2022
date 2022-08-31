@@ -2,7 +2,7 @@
 
 def q1(mystring):
     """ split the string by tabs to get an array and return the array """
-    return
+    pass
 
 
 def q2(mystring):
