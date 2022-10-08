@@ -1,6 +1,6 @@
 from mrjob.job import MRJob   # MRJob version
 
-class Orders0(MRJob):  #MRJob version
+class Efficientitems(MRJob):  #MRJob version
     def mapper(self, key, line):
         parts = line.split("\t")
         stock_code = float(parts[0])
