@@ -7,7 +7,7 @@ class Fight(MRJob):
 	destination_state = parts[3]
 	num_passengers = parts[5]
 	
-	for x in i:
+	for x in flight:
 	    if x == 2021:
 	        value = (num_passengers)
 	    else:
