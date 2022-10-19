@@ -1,0 +1,7 @@
+Florida, JFK, 67000
+Newyork, LAI, 18000
+DC, ABC, 12000
+MI, xyz, 1500
+NH, pqr, 2800
+California, abc, 39000
+Indiana, uvw, 8500
