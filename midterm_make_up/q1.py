@@ -21,4 +21,9 @@ class Fight(MRJob):
 	value = (num_passenegers, "2022")
 	yield(key, value)
 
-	
+    def reducer(self, key, values):
+	yield (key, (a,b))
+
+if __name__ == '__main__':
+    Flight.run()
+
