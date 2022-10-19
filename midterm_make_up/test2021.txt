@@ -1,0 +1,7 @@
+FLorida, JFK, 20000
+Newyork, LAI, 30000
+DC, ABC, 15000
+MI, xyz, 10000
+NH, pqr, 5000
+California, abc, 35000
+Indiana, uvw, 8000
